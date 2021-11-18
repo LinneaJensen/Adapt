@@ -1,0 +1,13 @@
+-classpath '/Users/linneaSjensen/Dropbox/ITU/Introductory Programming/Project/GP20-group21/build/classes/java/main:/Users/linneaSjensen/Dropbox/ITU/Introductory Programming/Project/GP20-group21/build/resources/main'
+-d '/Users/linneaSjensen/Dropbox/ITU/Introductory Programming/Project/GP20-group21/build/docs/javadoc'
+-doctitle 'searchengine API'
+-notimestamp 
+-quiet 
+-windowtitle 'searchengine API'
+'/Users/linneaSjensen/Dropbox/ITU/Introductory Programming/Project/GP20-group21/src/main/java/searchengine/Page.java'
+'/Users/linneaSjensen/Dropbox/ITU/Introductory Programming/Project/GP20-group21/src/main/java/searchengine/Response.java'
+'/Users/linneaSjensen/Dropbox/ITU/Introductory Programming/Project/GP20-group21/src/main/java/searchengine/QueryHandler.java'
+'/Users/linneaSjensen/Dropbox/ITU/Introductory Programming/Project/GP20-group21/src/main/java/searchengine/FileLoader.java'
+'/Users/linneaSjensen/Dropbox/ITU/Introductory Programming/Project/GP20-group21/src/main/java/searchengine/InvertedIndex.java'
+'/Users/linneaSjensen/Dropbox/ITU/Introductory Programming/Project/GP20-group21/src/main/java/searchengine/PageRanker.java'
+'/Users/linneaSjensen/Dropbox/ITU/Introductory Programming/Project/GP20-group21/src/main/java/searchengine/WebServer.java'

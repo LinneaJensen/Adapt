@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"searchengine","l":"FileLoader"},{"p":"searchengine","l":"InvertedIndex"},{"p":"searchengine","l":"Page"},{"p":"searchengine","l":"PageRanker"},{"p":"searchengine","l":"QueryHandler"},{"p":"searchengine","l":"Response"},{"p":"searchengine","l":"WebServer"}]

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="searchengine.WebServerTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-11-23T12:29:24" hostname="MacBook-Pro-7.local" time="0.648">
+  <properties/>
+  <testcase name="lookupWebServer()" classname="searchengine.WebServerTest" time="0.636"/>
+  <testcase name="convert_fileToByte_returnBytes()" classname="searchengine.WebServerTest" time="0.008"/>
+  <testcase name="convert_fileToByte_returnZeroBytes()" classname="searchengine.WebServerTest" time="0.002"/>
+  <system-out><![CDATA[╭─────────────────────────────────────────────╮
+│ WebServer running on http://localhost:57430 │
+╰─────────────────────────────────────────────╯
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
